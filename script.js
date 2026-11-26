@@ -1,4 +1,5 @@
 
+
 // SpendWise Budget Application
 
 // 1. Variables
@@ -15,7 +16,7 @@ function calculateBalance(budget, expenses) {
     return budget - expenses;
 }
 
-// 4. Calculate balance
+// 4. Calculate remaining balance
 balance = calculateBalance(budget, expenses);
 
 // 5. Display results
